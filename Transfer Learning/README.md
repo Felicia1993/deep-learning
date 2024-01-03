@@ -1,6 +1,6 @@
 # Transfer learning
 ## Dataset
-mini-ImageNet(https://drive.google.com/drive/folders/17a09kkqVivZQFggCw9I_YboJ23tcexNM)
+mini-ImageNet(https://drive.google.com/drive/folders/17a09kkqVivZQFggCw9I_YboJ23tcexNM)        
 EuroSAT dataset (https://github.com/phelber/EuroSAT)
 
 ## Evorinment 
