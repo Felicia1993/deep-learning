@@ -11,7 +11,7 @@ Python 3, Numpy, matplotlib, torch, torchvision
 
 [AnimeFace](https://www.kaggle.com/datasets/soumikrakshit/anime-faces) is a dataset consisting of 21551 anime faces scraped from an anime website. All images are resized to 64 * 64 for the sake of convenience. In this assignment, we perform transfer learning and treat the AnimeFace dataset as the downstream dataset.
 
-## transfer learning projects
+## Transfer learning projects
 ### Dataset
 mini-ImageNet(https://drive.google.com/drive/folders/17a09kkqVivZQFggCw9I_YboJ23tcexNM)
 EuroSAT dataset (https://github.com/phelber/EuroSAT)
