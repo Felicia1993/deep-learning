@@ -16,11 +16,11 @@ Python 3, Numpy, matplotlib, torch, torchvision
 mini-ImageNet(https://drive.google.com/drive/folders/17a09kkqVivZQFggCw9I_YboJ23tcexNM)
 EuroSAT dataset (https://github.com/phelber/EuroSAT)
 
-### Evorinment
+### Environment
 python=3.9.18, torch=2.1.1, torchvision=0.16.1
 
-### steps
-i. Download and read the miniImageNet (Because the dataset miniImageNet usually is used in the few-shot learning task. Hence, the train, val, and test data are from different categories. For easier, you can only focus on the train.tar, and split the data in train.tar as train, val, and test dataset, which means you can ignore both val.tar and test.tar.) & EuroSAT(RGB) datasets.
+### Steps
+i. Download and read the miniImageNet (For simplicity, I only focus on the train.tar, and split the data in train.tar as train, val, and test dataset) & EuroSAT(RGB) datasets.
 
 ii. Pretrain ResNet18 model on the training set of miniImageNet, evaluate & test it on the validation & test set.
 
